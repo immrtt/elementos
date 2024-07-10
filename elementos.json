@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "nombre": "Masoterapia",
+      "descripcion": "Relajacion"
+    },
+    {
+      "id": 2,
+      "nombre": "Yoga",
+      "descripcion": "Relajacion"
+    },
+    {
+      "id": 3,
+      "nombre": "Facial",
+      "descripcion": "Belleza"
+    }
+  ]
+  
